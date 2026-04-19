@@ -1,0 +1,13 @@
+-n
+-w1
+-es2
+-hblib
+-odbfcdxex
+
+src/dbfcdx1.c
+src/sixcdx1.c
+src/dbfcdxex1.c
+
+-ldflag=/NODEFAULTLIB:libucrt
+-ldflag=/NODEFAULTLIB:msvcrt
+-lucrt
