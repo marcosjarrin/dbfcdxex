@@ -147,7 +147,9 @@ Use at your own risk.
 What started as a simple experiment to see where AI is at has ended up blurring my entire identity as a coder. Honestly, it’s a trip—seeing the lifework of legends like Bruno Cantero, Horacio Roldan, and Przemysław swallowed up and outdone by a system in just a few hours. It gives you this inevitable sense of vertigo.
 
  We aren't writing the script anymore; we’re just proofreading it. We’ve become "fact-checkers" for someone else's miracles. As we shift from being hands-on craftsmen to just captains of the machine, the question sticks with you: if the execution isn’t ours anymore, what’s left of our authorship? The change isn't "coming", it's already changed who we are.
- 
+
+## 📝 [One day's story...](https://httpd2.blogspot.com/2026/04/y-llego-el-dia-claude-code.html)
+
 --- 
 
 <h1 style="display: flex; align-items: center;">
